@@ -60,7 +60,7 @@ st.divider()
 
 brt_tax_rate = 0.2
 hrt_tax_rate = 0.4
-brt_ni_rate = 0.1
+brt_ni_rate = 0.08
 hrt_ni_rate = 0.02
 
 retirement_vehicles = ['pension','LISA','ISA']
